@@ -1,6 +1,6 @@
 import { useState, useRef, useCallback } from "react";
 
-const API_URL = "https://your-railway-app.up.railway.app";
+const API_URL = "https://qaaiops-production.up.railway.app";
 
 const COLORS = {
   normal: "#1D9E75",
